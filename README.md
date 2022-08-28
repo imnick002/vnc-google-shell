@@ -1,4 +1,4 @@
-vnc-google-shell CHROME DESKTOP
+# vnc-google-shell CHROME DESKTOP
 
     https://console.cloud.google.com/home/dashboard
 
@@ -6,7 +6,7 @@ vnc-google-shell CHROME DESKTOP
 
     wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
 
-    git clone https://github.com/alexdanca341341/vnc-google-shell.git
+    git clone https://github.com/imnick002/vnc-google-shell.git
         cd vnc-google-shell
         cp vnc.py ../
         cd
